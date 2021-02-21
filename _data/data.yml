@@ -7,184 +7,128 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Juan Godínez
+    tagline: Android Native
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: -
+    phone: -
+    website: jgodinez.github.io #do not add http://
+    linkedin: juangodinezvera
+    github: jgodinez
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@j_godinez'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Español
+        level: Nativo
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Inglés
+        level: Inicial
 
     interests:
-      - item: Climbing
+      - item: Familia
         link:
 
-      - item: Snowboarding
+      - item: Música
         link:
 
-      - item: Cooking
+      - item: Kick boxing
         link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Desarrollador Android nativo. Trabajando remoto desde Marzo 2020. 
+      Con mas de 10 años de experiencia den el desarrollo de software
+      Orientado a la calidad y el trabajo en equipo. Alta capacidad de análisis.
+      Habilidad de aprendizaje de tecnologías. Relación y disciplina de trabajo. 
+      Seguimiento de proceso. Autodidacta y con iniciativa personal.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Ingeniería en Sistemas Computacionales
+      university: Universidad Politécnica de Tulancingo, Hidalgo
+      time: 2005 - 2008
+      details: 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Desarrollador android nativo
+      time: Enero 2019 - Presente
+      company: Globant, CDMX
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Desarrollador android Sr, Mentor
+    - role: Lider de equipo, desarrolador android nativo
+      time: Diciembre 2014 - Enero 2019
+      company: Gigigo, CDMX
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Lider de equipo y desarrollador android. 
+    - role: Lider de equipo, desarrollador C# .NET 
+      time: Junio 2010 - Diciembre 2014
+      company: SIGSA, CDMX
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Lider de equipo y desarrollador C# .NET
+    - role: Desarrollador C# .NET 
+      time: Diciembre 2009 - Junio 2010
+      company: Trabajador autónomo, Tulancingo Hidalgo
+      details: |
+        Desarrollador C# .NET, PHP, HTML, JavaScript
+    - role: Desarrollador C# .NET 
+      time: Mayo 2008 - Diciembre 2009
+      company: HSS, Tulancingo Hidalgo
+      details: |
+        Desarrollador C# .NET, HTML, JavaScript
 projects:
-    title: Projects
+    title: Proyectos
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      He tenido la oportunidad de trabajar en diversos proyectos los cuales me han permitido obtener una gran experiencia a lo largo del tiempo. 
+      Algunos de los mas sobresalientes son:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Citibanamex móvil
+        link: 
+        tagline: "Manejo de cuentas bancarias"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Gulf móvil
+        link: 
+        tagline: "Gestión de abastecimiento de combustible desde aplicación móvil, control de inventarios, gestión de turnos y personal"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Excelsior móvil
+        link: 
+        tagline: "Portal de noticias"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: SGI Pemex
+        link: 
+        tagline: "Sistema de información geográfica de control interno para gestión del área de Pemex Refinación"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades y competencias
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Kotlin for android
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java for android
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Scrum
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: UI / UX
+        level: 90%
 
-      - name: Ruby on Rails
+      - name: Confluence / Jira
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Git / Git flow
+        level: 85%
+        
+      - name: Git / Git flow
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
